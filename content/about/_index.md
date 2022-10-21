@@ -1,10 +1,13 @@
 ---
 title: Sobre mí
-description: Hey, I'm Edna West
+
 images: ["/images/sample.jpg"]
 ---
 
 
-This is my about page. :wave:
+Esta es mi página personal:wave:
 
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+Soy Jeanine Murcia. 
+Soy graduada en técnico superior de **Marketing y publicidad** y actualmente estoy estudiando una fp en **Desarrollo de aplicaciones web**
+
+![yo](/images/yo.jpg)

@@ -14,7 +14,7 @@ pygmentsCodeFences=true
   sub = "Bienvenido a mi portfolio"
 
 [params.main]
-  latestPublishHeader = "My Latest Project"
+  latestPublishHeader = "Mi último proyecto"
 
 [taxonomies]
   design = "designs"
@@ -42,22 +42,18 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  logo = "" # - default "loko.jpg"
 [params.assets]
-  favicon = ""
+  favicon = "nasa.png"
   customCSS = ""
 
 [params.social]
   github = "https://github.com/"
   twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
+  linkedin = "https://www.linkedin.com/in/" 
   facebook = "https://www.facebook.com/"
   youtube = "https://www.youtube.com/"
   instagram = "https://www.instagram.com/"
-  gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
 
 [params.contact]
   email = ""

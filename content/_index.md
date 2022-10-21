@@ -6,8 +6,10 @@ images: ["/images/sample.jpg"]
 
 Hola,
 
-Jeanine Murcia  a Web Developer and Entrepreneur.
+Este es mi proyecto de Hugo para la asignatura de **Desarrollo en entorno servidor**.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+En el encontrarás una pequeña guía para instalar Hugo.
+Un pequeño apartado sobre mí.
 
-[Get to know me better](/about "Get to know me better")
+
+[Saber más sobre mí](/about "Saber más sobre mí")
