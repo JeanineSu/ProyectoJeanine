@@ -5,32 +5,34 @@ date: 2019-04-29T16:18:12+01:00
 publishDate: 2019-04-29T19:12:12+01:00
 ---
 
-Introduction of the shortcodes defined in the personal-web theme.
+Aquí encontrarás distintos shortcodes.
 
 <!--more-->
 
-## Add a figure
-```go-html-template
-{{</* figure src="/post/images/sample_image.jpg" 
-caption="Photo by Tim Mossholder on Unsplash" */>}}
+## Añadir una imagen
+```bash
+{{</* figure src="/post/images/perro.jpg" 
+caption="Foto programando" */>}}
 ```
 
-results in
 
-{{< figure src="/post/images/sample_image.jpg" caption="Photo by Tim Mossholder on Unsplash" >}}
+{{< figure src="/post/images/perro.jpg" caption="Foto programando" >}}
 
 **Note:** files are kept in a `images` folder, directly in the post/portfolio folder.
 
 
-## Add a single Tweet
-```go-html-template
-{{</* tweet-single 1120412132036706305 */>}}
+## Añadir un tuit
+```bash
+{{</* https://twitter.com/sanchezcastejon/status/18081110810427392*/>}}
 ```
 
-results in
-{{< tweet-single 1120412132036706305 >}}
+{{< tweet-single 18081110810427392 >}}
 
-This shortcode is useful in case of multiple tweets in a thread. If you want to show a single tweet, use this shortcode, with the ID of the Tweet. The ID is the end of the tweet link.
+## Añadir un vídeo de youtube
+```bash
+{{</* https://www.youtube.com/watch?v=OgIRAjnnJzI */>}}
+```
 
-For example: \
-https://<span></span>twitter.com/BarackObama/status/**1120412132036706305**
+{{< youtube OgIRAjnnJzI >}}
+
+

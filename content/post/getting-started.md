@@ -1,24 +1,27 @@
 ---
-title: Getting started
+title: Empecemos
 description: Getting started with personal-web
 date: "2019-05-03T09:37:55+02:00"
 publishDate: "2019-05-03T09:37:55+02:00"
 ---
 
-Here are some details to help you getting started with this theme.
+Un resumen que te ayudará a empezar a utilizar este tema.
 
 <!--more-->
 
-We'll assume here that you have a good understanding of Hugo and its structure. If you have any doubt, check the [Hugo documentation](https://gohugo.io/documentation/ "Hugo documentation"); it is pretty good and the community quite active! Thank you so much by the way! :muscle:
 
-The first thing to do when starting your own website is to **copy the content of exampleSite** in your own root folder. This way, you can have a sample of `config.toml` file and a first structure.
 
-**Don't forget to change the `baseURL` param to avoid deployment failures**
+Para empezar se debe tener una buena comprensión de Hugo y su estructura. Si tienes alguna duda, consulta la [documentación de Hugo](https://gohugo.io/documentation/ "Documentación de Hugo").
 
-Browse the articles in the `content/post` folder to get any help during setup or using the theme. Please, [contact me](https://baptistej.com "contact me") if you have any problem using the them.
+Lo primero que debe hacer al iniciar tu propio sitio web es **copiar el contenido de exampleSite** en tu propia carpeta raíz. De esta forma, puede tener una muestra del archivo `config.toml` y una primera estructura.
 
-Then **configure the `config.toml` file** to match your need.
+**No olvides cambiar el parámetro `baseURL` para evitar fallos en la implementación**
 
-You should then write you home (`/content/_index.md`), create your first project (see the [portfolio definition](/content/post/portfolio-definition.md "portfolio definition") and your first blogpost.
+Explora los artículos en la carpeta `content/post` para obtener ayuda durante la configuración o el uso del tema. 
 
-Lastly, define the menu in the sidebar: you can get some help in the `/content/post/manage-your-menu.md` file.
+ **Configurar el archivo `config.toml`** para que coincida con tus necesidades.
+
+A continuación, debes escribir a tu home (`/content/_index.md`), crear tu primer proyecto (consulte la [portfolio definition](/content/post/portfolio-definition.md "portfolio definition") y tu primera publicación de blog.
+
+Por último, define el menú en la barra lateral: puedes obtener ayuda en el archivo `/content/post/manage-your-menu.md`.
+

@@ -1,5 +1,5 @@
 ---
-title: INSTALACIÓN
+title: Instrucciones
 description: 'Portfolio Section'
 ---
 

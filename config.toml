@@ -2,7 +2,7 @@ baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Proyecto Jeanine"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="© Jeanine Murcia"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -50,9 +50,9 @@ pygmentsCodeFences=true
 [params.social]
   github = "https://github.com/"
   twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/" 
+  linkedin = "https://www.linkedin.com/in/jeanine-murcia-549647163/" 
   facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
+  youtube = "https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3"
   instagram = "https://www.instagram.com/"
 
 [params.contact]

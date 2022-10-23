@@ -1,5 +1,5 @@
 ---
-title: Instrucciones
+title: Instalación
 description: This is the description of our sample project
 
 jobDate: 2022
@@ -8,18 +8,9 @@ techs: [javascript, D3]
 
 thumbnail: sample-project/sample.png
 projectUrl: https://www.youtube.com/watch?v=6H0jLIKe0uw
-testimonial:
-  name: John Doe
-  role: CEO @Example
-  image: sample-project/john.jpg
-  text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
-
-En este tutorial vamos a instalar Hugo, un CMS que poco a poco esta adquiriendo popularidad debido a su velocidad y fluidez a la hora de escribir artículos.
-
-Vamos a instalarlo en su version extended, ya que este incluye el paquete base de Hugo y algunas funcionalidades extras que algunos temas nos pueden requerir.
 
 <h3>Instalación Hugo en Linux</h3> <br/>
 
@@ -66,3 +57,4 @@ Se nos abrirá una ventana llamada Propiedades del sistema y en esta volveremos 
 En la lista que nos mostrará buscaremos la variable PATH, y al final de esta añadiremos ‘;C:\Hugo\bin’.
 
 Con esto reiniciando el sistema tendremos hugo instalado y accesible en nuestro sistema.
+

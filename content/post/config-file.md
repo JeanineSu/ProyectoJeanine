@@ -1,13 +1,12 @@
 ---
-title: "Config File"
+title: "Configuración"
 description: Some basics on the configuration of the theme
 date: 2019-04-20T16:18:12+01:00
 publishDate: 2019-04-20T19:12:12+01:00
 ---
 
-Here is the basic config file used for personal-web.
+Aquí se encuentra toda la información sobre la configuración base del tema personal-web, proporcionada ya por el creador.
 
-You can use it as a base for your website.
 
 <!--more-->
 
