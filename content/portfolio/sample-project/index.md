@@ -4,7 +4,6 @@ description: This is the description of our sample project
 
 jobDate: 2022
 work: [Click aquí]
-techs: [javascript, D3]
 
 thumbnail: sample-project/sample.png
 projectUrl: https://www.youtube.com/watch?v=6H0jLIKe0uw

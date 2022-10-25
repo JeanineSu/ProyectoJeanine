@@ -18,7 +18,6 @@ caption="Foto programando" */>}}
 
 {{< figure src="/post/images/perro.jpg" caption="Foto programando" >}}
 
-**Note:** files are kept in a `images` folder, directly in the post/portfolio folder.
 
 
 ## Añadir un tuit

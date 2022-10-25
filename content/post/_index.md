@@ -3,5 +3,5 @@ title: POST
 description: 'Posts Section'
 ---
 
-You'll add here a general introduction of your posts.
+Aquí se agregan introducciones generales de las publicaciones.
 
