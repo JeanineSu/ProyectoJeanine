@@ -22,48 +22,41 @@ Puzzle.
 <h3>Frameworks</h3>
 
 ```TOML
-Angular: Framework de ingeniería de software  
-de código abierto,  
-sirve para desarrollar aplicaciones web 
-de estilo Single Page Application.
+Angular: Framework que sirve para 
+desarrollar aplicaciones web.
 ```
 ```TOML
-Frameworks de PHP: Un framework PHP es un marco 
-de trabajo para el desarrollo de proyectos que 
-incluye una buena base de código para comenzar 
-a crear una web profesional sin tener que 
-preocuparte de las tareas repetitivas 
-propias de cada proyecto.
+Frameworks de PHP: Espacio de trabajo para 
+desarrollar proyectos.
 ```
 ```TOML
-JQuery: es una librería que permite añadir una 
-capa de interacción AJAX entre la web y las 
-aplicaciones que desarrollemos controlando 
-eventos, creando animaciones y diferentes 
+JQuery: Librería que permite añadir 
+interacciones entre la web y las 
+aplicaciones, controlando eventos, 
+creando animaciones y diferentes 
 efectos para enriquecer la experiencia de usuario.
 ```
 <h3>Lenguajes </h3>
 
 ```TOML
-CSS: lenguaje que maneja el diseño y presentación 
+CSS: Lenguaje que se encarga del diseño y presentación 
 de las páginas web. Funciona junto con el lenguaje HTML 
 que se encarga del contenido básico de las páginas.
 ```
 
 ```TOML
-JavaScript: lenguaje de programación que se usa 
+JavaScript: Lenguaje de programación que se usa 
 para añadir características interactivas a tu sitio web.
 ```
 ```TOML
-PHP: lenguaje de programación que permite el desarrollo 
-web o aplicaciones web dinámicas, el cual es apto para 
-incrustar el lenguaje HTML.
+PHP: Lenguaje de programación que permite el desarrollo 
+web o aplicaciones web dinámicas.
 ```
 
 <h3>Generadores de sitios</h3>
 
 ```TOML
-Gatsby: generador de sitios estáticos construido con 
+Gatsby: Generador de sitios estáticos construido con 
 ReactJS y alimentado por GraphQL. Gatsby permite que 
 cualquiera pueda crear sitios web y aplicaciones 
 atractivas y ricas en funciones.
@@ -73,8 +66,8 @@ Hugo: Framework para creación de sitios web de propósito
 general.
 ```
 ```TOML
-Jekill: Generador de páginas estáticas para la construcción 
-de webs, principalmente enfocado a blogs.
+Jekill: Generador de páginas estáticas para la 
+construcción de webs, principalmente enfocado a blogs.
 ```
 
 <h3>Otros</h3>
